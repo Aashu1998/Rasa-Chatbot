@@ -40,6 +40,23 @@
 * deny
   - utter_sorry
 
+## help 3
+* ask_for_help
+  - utter_ask_human
+* mood_great
+  - utter_did_that_help
+* affirm
+  - utter_happy
+  - utter_thanks
+
+## help 4
+* ask_for_help
+  - utter_ask_human
+* mood_great
+  - utter_did_that_help
+* deny
+  - utter_sorry
+
 ## say goodbye
 * thank
   - utter_thanks
