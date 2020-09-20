@@ -34,6 +34,12 @@
   - action_fetch_all_events
 * bye OR thank
   - utter_goodbye
+## Story 2
+* enquiry
+  - utter_ask_email
+* ask_name
+  - utter_ask_name
+
 
 <!-- commented out
 	## subscribe story happy
