@@ -41,7 +41,21 @@
   - utter_did_that_help
 * deny: no
   - utter_goodbye
-
+## help3
+* greet: Hi! Here you go
+  - utter_ask_human
+* mood_great: fantastic
+  - utter_did_that_help
+* affirm: yes
+  - utter_happy
+## help4
+* greet: Hi! Here you go
+  - utter_ask_human
+* mood_unhappy: I'm terribly sorry
+  - utter_cheer_up
+  - utter_did_that_help
+* deny: No
+  - utter_sorry
 ## say goodbye
 * goodbye: bye-bye!
   - utter_goodbye
